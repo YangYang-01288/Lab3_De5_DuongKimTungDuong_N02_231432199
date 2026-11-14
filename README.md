@@ -6,8 +6,8 @@ Sinh viên: Dương Kim Tùng Dương - MSSV: 231432199 - N02
 
 ## Liên kết
 - Báo cáo:BÁO CÁO LAB 3.docx
-- Web điều khiển: [https://yangyang-01288.github.io/Lab3_De5_DuongKimTungDuong_N02_231432199/](https://yangyang-01288.github.io/Lab3_De5_DuongKimTungDuong_N02_231432199/)
 - Mô phỏng Wokwi:[ https://wokwi.com/projects/480202976757129217](https://wokwi.com/projects/480202976757129217)
+- Web điều khiển: [https://yangyang-01288.github.io/Lab3_De5_DuongKimTungDuong_N02_231432199/](https://yangyang-01288.github.io/Lab3_De5_DuongKimTungDuong_N02_231432199/)
 - Video thuyết trình: [https://youtu.be/5vekJ6TRYBE](https://youtu.be/5vekJ6TRYBE)
 
 ## Tóm tắt
