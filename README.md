@@ -1,5 +1,5 @@
-# Lab3_Đề5 _ Dương Kim Tùng Dương_Hệ thống nhúng(N02)_231432199
-# Lab 3: FreeRTOS trên ESP32 - Hệ thống phát hiện té ngã (Đề 5)
+# Dương Kim Tùng Dương-231432199 - Hệ thống nhúng(N02)
+# Lab 3: FreeRTOS trên ESP32 - Đề 5: Hệ thống phát hiện té ngã 
 
 ## Liên kết
 - Báo cáo:BÁO CÁO LAB 3.docx
