@@ -1,8 +1,5 @@
-# Lab3_Đề5_Dương Kim Tùng Dương _N02_231432199
+# Lab3_Đề5 _ Dương Kim Tùng Dương_Hệ thống nhúng(N02)_231432199
 # Lab 3: FreeRTOS trên ESP32 - Hệ thống phát hiện té ngã (Đề 5)
-
-Môn: Hệ Thống Nhúng
-Sinh viên: Dương Kim Tùng Dương - MSSV: 231432199 - N02
 
 ## Liên kết
 - Báo cáo:BÁO CÁO LAB 3.docx
