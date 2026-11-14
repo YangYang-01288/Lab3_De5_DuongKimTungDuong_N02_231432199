@@ -2,7 +2,7 @@
 # Lab 3: FreeRTOS trên ESP32 - Hệ thống phát hiện té ngã (Đề 5)
 
 Môn: Hệ Thống Nhúng
-Sinh viên: [Họ tên] - MSSV [MSSV]
+Sinh viên: Dương Kim Tùng Dương - MSSV: 231432199 - N02
 
 ## Liên kết
 - Báo cáo:BÁO CÁO LAB 3.docx
