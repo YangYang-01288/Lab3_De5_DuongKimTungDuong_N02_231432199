@@ -13,6 +13,7 @@ Sinh viên: Dương Kim Tùng Dương - MSSV: 231432199 - N02
 ## Nội dung repository
 - lab3_de5_fall_rtos.ino: code ESP32 (3 Task, 2 Queue, Mutex, Semaphore)
 - index.html: giao diện web (MQTT, biểu đồ, nút điều khiển)
+- BÁO CÁO LAB 3.docx: File báo báo bài làm
 
 ## Thư viện cần dùng trên Wokwi
 PubSubClient, Adafruit MPU6050, Adafruit Unified Sensor
