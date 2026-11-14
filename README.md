@@ -34,13 +34,12 @@ Hệ thống phát hiện té ngã dùng **ESP32 + cảm biến MPU6050**, chạ
 
 **Web**: hiển thị trạng thái, gia tốc, góc nghiêng, 2 biểu đồ thời gian thực và các nút điều khiển (mqtt.js + Chart.js).
 
-## Nội dung repository
-- lab3_de5_code.ino: code ESP32 (3 Task, 2 Queue, Mutex, Semaphore)
-- index.html: giao diện web (MQTT, biểu đồ, nút điều khiển)
-- BÁO CÁO LAB 3.docx: File báo báo bài làm
-
 ## Cách chạy
 1. Mở dự án Wokwi, thêm thư viện PubSubClient, Adafruit MPU6050, Adafruit Unified Sensor, dán code `.ino` rồi chạy mô phỏng.
 2. Mở link web, đợi báo "Đã kết nối ESP32".
 3. Chỉnh MPU6050 trong Wokwi để thử té ngã (xem báo cáo mục 5).
 
+## Nội dung repository
+- lab3_de5_code.ino: code ESP32 (3 Task, 2 Queue, Mutex, Semaphore)
+- index.html: giao diện web (MQTT, biểu đồ, nút điều khiển)
+- BÁO CÁO LAB 3.docx: File báo báo bài làm
