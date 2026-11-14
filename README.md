@@ -1,4 +1,4 @@
-# Lab3_De5_DuongKimTungDuong_N02_231432199
+# Lab3_Đề5_Dương Kim Tùng Dương _N02_231432199
 # Lab 3: FreeRTOS trên ESP32 - Hệ thống phát hiện té ngã (Đề 5)
 
 Môn: Hệ Thống Nhúng
