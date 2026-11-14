@@ -5,16 +5,14 @@ Môn: Hệ Thống Nhúng
 Sinh viên: [Họ tên] - MSSV [MSSV]
 
 ## Liên kết
-- Báo cáo: [tên file báo cáo].pdf (trong repo)
-- Web điều khiển: https://<tên-github>.github.io/<tên-repo>/
-- Mô phỏng Wokwi: [dán link dự án Wokwi]
-- Video thuyết trình: [dán link YouTube hoặc đường dẫn file trong thư mục video]
+- Báo cáo:BÁO CÁO LAB 3.docx
+- Web điều khiển: [https://yangyang-01288.github.io/Lab3_De5_DuongKimTungDuong_N02_231432199/](https://yangyang-01288.github.io/Lab3_De5_DuongKimTungDuong_N02_231432199/)
+- Mô phỏng Wokwi:[ https://wokwi.com/projects/480202976757129217](https://wokwi.com/projects/480202976757129217)
+- Video thuyết trình: [https://youtu.be/5vekJ6TRYBE](https://youtu.be/5vekJ6TRYBE)
 
 ## Nội dung repository
 - lab3_de5_fall_rtos.ino: code ESP32 (3 Task, 2 Queue, Mutex, Semaphore)
 - index.html: giao diện web (MQTT, biểu đồ, nút điều khiển)
-- images/: ảnh sơ đồ mạch, Serial, web
-- video/: video demo (nếu có)
 
 ## Thư viện cần dùng trên Wokwi
 PubSubClient, Adafruit MPU6050, Adafruit Unified Sensor
@@ -23,4 +21,3 @@ PubSubClient, Adafruit MPU6050, Adafruit Unified Sensor
 1. Mở dự án Wokwi, dán code .ino, chạy mô phỏng.
 2. Mở link web, đợi báo "Đã kết nối ESP32".
 3. Chỉnh MPU6050 trong Wokwi để thử té ngã (xem báo cáo mục 5).
-4. ![Uploading image.png…]()
